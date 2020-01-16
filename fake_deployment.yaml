@@ -1,8 +1,8 @@
 customer_commissioned: false
-customer_id: "bossanova"
-store_id: "riverside"
+customer_id: "training"
+store_id: "travis"
  
 robotvpn_version: "both"
-customer_pki_name: "riverside"
-customer_environment: "testing"
+customer_pki_name: "training"
+customer_environment: "production"
 
