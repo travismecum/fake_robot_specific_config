@@ -1,0 +1,8 @@
+customer_commissioned: false
+customer_id: "bossanova"
+store_id: "riverside"
+ 
+robotvpn_version: "both"
+customer_pki_name: "riverside"
+customer_environment: "testing"
+
